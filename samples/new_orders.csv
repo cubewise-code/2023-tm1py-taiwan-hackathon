@@ -1,0 +1,12 @@
+Period,Version,Segment,Customer,Product,Country,Measure,Quantity
+202306,Act,On-trade,The Drink Spot,Belgian-Style Ale,Austria,Quantity,69.0
+202306,Act,On-trade,Refreshment Central,India Pale Ale,Austria,Quantity,40.5
+202306,Act,On-trade,Brews and More,Lager,Austria,Quantity,114.0
+202306,Act,On-trade,Beverage Express,Pale Ale,Austria,Quantity,136.5
+202306,Act,On-trade,Beverage Express,Wheat Beer,Austria,Quantity,6.0
+202306,Act,On-trade,Brews and More,Coke,Austria,Quantity,73.5
+202306,Act,On-trade,Beverage Express,Energy,Austria,Quantity,49.5
+202306,Act,On-trade,Thirst Quencher Co.,Smoothie,Austria,Quantity,7.5
+202306,Act,On-trade,Thirst Quencher Co.,Soda,Austria,Quantity,7.5
+202306,Act,On-trade,Drink Oasis,Belgian-Style Ale,Belgium,Quantity,69.0
+202306,Act,On-trade,Drink Oasis,India Pale Ale,Belgium,Quantity,76.5

@@ -1,0 +1,11 @@
+Product Name,Voltage,Frequency,Power Consumption,Data Transfer Rate,Size,Temperature Range,Operating Voltage,Package Type,Clock Speed,Resolution
+Bright-Logic-ium,27V,43MHz,1.90W,11Gbps,91mm x 75mm,53 Celsius to 33 Celsius,1.99V,SOT-23,None,None
+Multi-Stream-logic,75V,93MHz,5.57W,53Gbps,63mm x 56mm,36 Celsius to -8 Celsius,2.85V,QFN,None,None
+Cyber-Sense-tech,20V,68MHz,5.07W,6Gbps,85mm x 3mm,-20 Celsius to 15 Celsius,2.63V,PLCC,None,None
+Ultra-Link-ex,72V,88MHz,9.22W,20Gbps,26mm x 28mm,37 Celsius to 22 Celsius,2.80V,TO-220,None,None
+Smart-Edge-tech,13V,100MHz,3.21W,18Gbps,88mm x 39mm,76 Celsius to 9 Celsius,1.90V,TO-220,None,None
+Bright-Charge-genix,14V,97MHz,2.48W,49Gbps,5mm x 47mm,8 Celsius to 58 Celsius,2.87V,BGA,None,None
+Silent-Link-com,23V,59MHz,7.93W,36Gbps,53mm x 98mm,-10 Celsius to 32 Celsius,2.65V,TSOP,None,None
+Micro-Cell-com,15V,55MHz,6.96W,2Gbps,33mm x 53mm,-5 Celsius to -26 Celsius,2.41V,QFN,None,None
+Super-Byte-link,3V,97MHz,6.67W,48Gbps,34mm x 33mm,-26 Celsius to 79 Celsius,3.09V,TSOP,None,None
+Micro-Link-tronics,32V,94MHz,3.38W,4Gbps,10mm x 57mm,-1 Celsius to 20 Celsius,3.24V,PLCC,None,None
