@@ -1,9 +1,9 @@
 # Beginner Challenges
 
-1. Read all leaf elements from the dimension: `Region`. print it out.
+1. Read all leaf elements from the dimension: `Region`. print them out.
 1. Add a new leaf elements: `Taiwan` to `Region`. Add it into the hierarchy
 1. **Extra**: add `Bubble Tea` to the `Product` dimension. Include it in the Hierarchy
-1. write data points to the `Sales` cube for `Lager` or `Bubble Tea` for `2021` `actuals` for `Taiwan`
+1. write new sales values to the `Sales` cube for `Lager` or `Bubble Tea` for `2021` `actuals` for `Taiwan`
 
 # Medium Challenges
 
